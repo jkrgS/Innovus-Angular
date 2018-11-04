@@ -1,0 +1,11 @@
+
+.details {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.details-list {
+  color: black;
+}
